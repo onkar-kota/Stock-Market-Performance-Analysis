@@ -11,3 +11,7 @@ it’s recommended to use the yfinance API to collect and work on real-time data
 
 - for command prompt or terminal: pip install yfinance
 - for Google Colab or Jupyter notebooks: !pip install yfinance
+
+## For Better View
+
+[Visit this page](https://nbviewer.org/github/onkar-kota/Stock-Market-Performance-Analysis/blob/master/6.%20Stock%20Market%20Performance%20Analysis%20using%20Python.ipynb)
